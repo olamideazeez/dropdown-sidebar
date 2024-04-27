@@ -1,2 +1,2 @@
 # dropdown-sidebar
-A dropdown responsive Side navigation bar 
+# A dropdown responsive Side navigation bar 
